@@ -1,9 +1,4 @@
-Table with column headers in rows 3 and 4,_unnamed,_unnamed_3,_unnamed_4,_unnamed_7,_unnamed_22
-"2014 Poverty and Median Household Income Estimates - Counties, States, and National
-Source:  U.S. Census Bureau, Small Area Income and Poverty Estimates (SAIPE) Program
-Release date:  December 2015",,,,,
-Geographic Information,,,All Ages,,Median Household Income
-State FIPS Code,County FIPS Code,Name,"Poverty Estimate, All Ages","Poverty Percent, All Ages",Median Household Income
+StateFIPS,CountyFIPS,Name,PovertyEstimate,PovertyPercent,MedianHouseholdIncome
 00,000,United States,48208387.0,15.5,53657.0
 01,000,Alabama,905682.0,19.2,42917.0
 01,001,Autauga County,7204.0,13.1,54366.0
