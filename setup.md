@@ -3,12 +3,13 @@
 Setting up SQLite on your computer is very straightforward and does not require special administrator privileges. Here’s the rundown for various operating systems:
 
 ##Windows
-1. Download https://www.sqlite.org/2016/sqlite-tools-win32-x86-3100100.zip
-2. Unzip the file right there in your Downloads folder
-3. Test it:
+1. Download http://tinyurl.com/az-sql-exe
+2. Test it:
   1. Open Powershell
-  2. Change directories to your Downloads folder by typing the following, then Enter: `cd ~/Downloads`
-  3. Start the SQLite application by typing the following, then Enter: `sqlite3`
+  2. Change directories to your Downloads folder by typing the following, then Enter: 
+  `cd ~/Downloads`
+  3. Start the SQLite application by typing the following, then Enter: 
+  `sqlite3.exe`
 
 You should see a prompt starting with “SQLite version …”
 This confirms the application starts up correctly. You may exit out of Powershell.
