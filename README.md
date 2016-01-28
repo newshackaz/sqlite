@@ -14,7 +14,7 @@ Setting up SQLite on your computer is very straightforward and does not require 
   2. Change directories to your Downloads folder by typing the following, then Enter: 
   `cd ~/Downloads`
   3. Start the SQLite application by typing the following, then Enter: 
-  `sqlite3.exe`
+  `./sqlite3.exe`
 
 You should see a prompt starting with “SQLite version …”
 This confirms the application starts up correctly. You can exit out of Powershell.
