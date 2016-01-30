@@ -1,3 +1,28 @@
+CREATE TABLE poverty(
+  "FIPS" TEXT,
+  "Name" TEXT,
+  "PovertyEstimate" TEXT,
+  "PovertyPercent" TEXT,
+  "MedianHouseholdIncome" TEXT
+);
+CREATE TABLE water(
+  "STATE" TEXT,
+  "COUNTY" TEXT,
+  "FIPS" TEXT,
+  "TotPop" TEXT,
+  "public" TEXT,
+  "domestic" TEXT,
+  "industrial" TEXT,
+  "crops" TEXT,
+  "golf" TEXT,
+  "livestock" TEXT,
+  "aquaculture" TEXT,
+  "mining" TEXT,
+  "thermoelectric" TEXT,
+  "total" TEXT
+);
+
+
 # #sqlite #newshackaz 
 Everything you'll need to start learning command-line SQL in sunny Tucson, AZ
 
