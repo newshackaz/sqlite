@@ -1,3 +1,24 @@
+CREATE TABLE water( 
+"STATE" TEXT, 
+"COUNTY" TEXT, 
+"FIPS" TEXT, 
+"TotPop" long, 
+"public" long, 
+"domestic" long, 
+"industrial" long, 
+"crops" long, 
+"golf" long, 
+"livestock" long, 
+"aquaculture" long, 
+"mining" long, 
+"thermoelectric" long, 
+"total" long); 
+
+
+
+
+
+
 CREATE TABLE poverty(
   "FIPS" TEXT,
   "Name" TEXT,
